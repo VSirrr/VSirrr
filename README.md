@@ -1,4 +1,4 @@
-![VSirrr's github stats](https://github-readme-stats.vercel.app/api?username=VSirrr&show_icons=true)
+![VSirrr's github stats](https://github-readme-stats.vercel.app/api?username=VSirrr&show_icons=true&theme=radical)
 
 
 <!--
