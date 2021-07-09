@@ -1,4 +1,4 @@
-### Hi there, I'm VSirrr 👋
+### Hi there, I'm V 👋
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=VSirrr.VSirrr) -->
 
